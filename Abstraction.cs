@@ -16,7 +16,7 @@ namespace AbstractScenario
     {
         public override void Animal()
         {
-            Console.WriteLine("Hey Girish Gaikwad");
+            Console.WriteLine("Hey XYZ ABC");
         }
 
          
