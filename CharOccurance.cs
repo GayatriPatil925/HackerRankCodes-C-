@@ -25,7 +25,7 @@ class Stringreverse
             for (int j=0;j<chararr.Length;j++)
             {
                 
-                if(chararr[i] == chararr[j])
+                if(uchar[i] == chararr[j])
                 {
                   temp++;
                 }
