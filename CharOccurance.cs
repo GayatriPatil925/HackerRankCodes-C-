@@ -11,7 +11,7 @@ class Stringreverse
         string input= (Console.ReadLine()).ToUpper();
         var chararr = input.ToCharArray();
         var uchar = input.Distinct().ToArray();
-
+   //The Distinct method in C# is used to remove duplicate elements from a collection
         
 
        foreach(char i in uchar)
